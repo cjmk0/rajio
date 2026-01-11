@@ -1,0 +1,76 @@
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz, https://mytvsuperepg.860775.xyz/epg.xml"
+
+#EXTINF:-1 tvg-chno="1" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://en.wikipedia.org/wiki/NHK_General_TV#/media/File:NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg", NHKG
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-chno="2" tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/530px-NHK_logo.svg.png", NHKE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-chno="3" tvg-id="日テレ.jp" tvg-logo="https://en.wikipedia.org/wiki/Nippon_Television#/media/File:Nippon_Television_Holdings_logo.svg", 日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ＴＢＳ.jp" tvg-logo="https://en.wikipedia.org/wiki/File:Tokyo_Broadcasting_System_logo_2020.svg", TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-chno="5" tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/225px-Fuji_TV_logo.svg.png", Fujiテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 tvg-chno="6" tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 tvg-chno="7" tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/330px-TV_Tokyo_logo_20110629.svg.png", テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 tvg-chno="8" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp", Tokyo MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+#EXTINF:-1 tvg-chno="9" tvg-id="ＴＯＫＹＯ　ＭＸ2.jp", Tokyo MX2
+http://nl.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="ＭＢＳ毎日放送・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="11" tvg-id="ＡＢＣテレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="12" tvg-id="関西テレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="13" tvg-id="よみうりテレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="14" tvg-id="テレビ大阪・大阪.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="15" tvg-id="kbs", KBS京都
+http://us1001.utako.moe/kbs/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
+http://nl.utako.moe/suntv/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="20", NHK World
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-chno="21", NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-chno="22", NHK BS
+http://nl.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 tvg-chno="23", NHK BSP 4K
+http://nl.utako.moe/bsp4k/index.m3u8
+
+#EXTINF:-1 tvg-chno="24", BSテレ東 4K
+http://nl.utako.moe/bstx4k/index.m3u8
+
+#EXTINF:-1,WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1,WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+#EXTINF:-1, WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+Referer=https://news.now.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.104 Safari/537.36
