@@ -1,0 +1,20 @@
+#EXTM3U 
+
+#EXTINF:-1,AsianetHD
+http://217.20.112.199/asianet/index.m3u8
+
+#EXTINF:-1,Mazhavil Manorama
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+
+#EXTINF:-1,Flowers HD
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1,Media One
+https%3a//cdn-3.pishow.tv/live/1481/master.m3u8
+
+#EXTINF:-1,Asianet News
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
+
+#EXTINF:-1,Mathrubumi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+Referer=https://news.now.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.104 Safari/537.36
