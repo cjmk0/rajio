@@ -1,0 +1,35 @@
+#EXTM3U 
+
+#EXTINF:-1,DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1,Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1,Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+
+#EXTINF:-1,Puthiyathalaimurai TV
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1,Chithiram TV
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:-1,Vendhar TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+
+#EXTINF:-1,Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+
+#EXTINF:-1,Isaiaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1,Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1,Malar TV
+https://cdn-3.pishow.tv/live/473/master.m3u8
+
+#EXTINF:-1,Sirippoli TV
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+Referer=https://news.now.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.104 Safari/537.36
